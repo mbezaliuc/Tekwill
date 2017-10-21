@@ -4,9 +4,9 @@ public class Woman extends Human {
 
     private boolean isHappy;
 
-    public Woman() {
-        System.out.println("Default constructor woman");
-    }
+//    public Woman() {
+//        System.out.println("Default constructor woman");
+//    }
 
     public Woman(String name, int age) {
         super(name, age);
